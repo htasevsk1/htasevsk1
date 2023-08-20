@@ -1,4 +1,4 @@
-- 👋 Hello there, my name is Hristijan. I'm a software engineer with 2+ years of experience and great proficiency in PHP and Javascript.
+- 👋 Hello there, my name is Hristijan. I'm a software engineer with 3+ years of experience and great proficiency in PHP and Javascript.
 - 👀 I’m interested in software engineering in general, books and sports.  
 - 🌱 I'm passionate about blockchain and I'm learning casually Web3 and Solidity in my free time.
 - 💞️ I **love** the open-source communities and I've learned so much from them! I would also **love** to be a contributor of an open-source project, so leave me a message.
